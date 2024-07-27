@@ -1,0 +1,11 @@
+
+“
+java:S1989"PHandle the following exception that could be thrown by "getWriter": IOException.(‹Ù×ˆ8ıºÕŸ2J$f72c21fe-b01d-4d02-bb45-f4ad44dec914
+k
+java:S1185"(Remove this method to simply inherit it.(üª¼í8ıºÕŸ2J$36eff50d-52d6-49c6-8a93-8125e9d5aa98
+¨
+java:S1989"`Handle the following exceptions that could be thrown by "doPost": ServletException, IOException.(Í†»Öúÿÿÿÿ8‚»ÕŸ2J$3bf7d514-ee72-4449-9d79-76126fae1347
+›
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(¹…Œ›8ƒ»ÕŸ2J$3ea1a6ee-8ab1-4be9-ac19-da3c81473a71
+“
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(‹Ù×ˆ8âºÕŸ2J$596ec2d1-4b5e-4711-bc3f-cc4694aa59ea
